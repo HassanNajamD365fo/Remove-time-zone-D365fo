@@ -1,0 +1,1 @@
+DateTimeUtil::removeTimeZoneOffset(str2datetime(fsc_Arrival.valueStr(),213), DateTimeUtil::getUserPreferredTimeZone());
